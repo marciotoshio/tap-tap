@@ -16,4 +16,5 @@ h1 {
   height: 480px;
   border-radius: 4px;
   margin: 0 auto;
+  cursor: none;
 }
